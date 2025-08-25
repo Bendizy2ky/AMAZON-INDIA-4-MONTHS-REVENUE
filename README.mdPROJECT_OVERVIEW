@@ -1,0 +1,10 @@
+This project is an Amazon Revenue Project for India and the timeframe of the dataset used is 4-months. This project is a real one and the data used are real life data scraped from Amazon.
+To get good results the data needed cleaning to be abe to gain accuracy using SQL
+Then Power-Bi was used to visulize the already queried data into detailed information
+In this project we had about 129k orders in 48 States and 7292 Cities covered
+At the end of this project, the following information were made visible:
+1. The Best Selling Products across the country
+2. The Ship-Level performance per product
+3. Revenue Per Product
+4. Best Performing State and Best Selling Product Per State
+5. Product Performance By Status (Cancelled, Shipped, Pending etc)
